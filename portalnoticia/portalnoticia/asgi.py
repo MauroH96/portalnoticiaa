@@ -15,5 +15,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'portalnoticia.settings')
 
 application = get_asgi_application()
 
-#asdas
-#asf
+#rhyrw
